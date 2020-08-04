@@ -1,0 +1,13 @@
+html,
+body,
+#root {
+  height: 100%;
+  background-color: #0a125a;
+  color: #ffffff;
+  font-family: "sans-serif";
+}
+.center {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+}
